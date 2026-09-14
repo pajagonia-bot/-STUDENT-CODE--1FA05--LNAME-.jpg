@@ -1,5 +1,5 @@
 import math
-
+# get the coordinates 
 x1 = float(input("Enter x1: "))
 y1 = float(input("Enter y1: "))
 x2 = float(input("Enter x2: "))
